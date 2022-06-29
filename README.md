@@ -13,7 +13,7 @@
 that "inherits" the attributes and methods of a parent class.
 - **Composition**: a tool that enables you to recycle code by adding objects to
 other objects. Rather than building on a base class as in inheritance,
-composition leverages the attribues and methods of an instance of another class.
+composition leverages the attributes and methods of an instance of another class.
 - **Subclass**: a class that inherits from another class. Colloquially called
 a "child" class.
 - **Superclass**: a class that is inherited by another class. Colloquially
